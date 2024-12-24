@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="test.test_user_get.user_id_from_auth_method" />
+          <option value="test.test_user_get.token" />
+          <option value="test.test_user_get.auth_sid" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
